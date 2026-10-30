@@ -8,3 +8,4 @@
 6. [Diagrammes à barres et circulaires - réalisation contextuelle adaptée de diagrammes](sujets/06-diagrammes.md)
 7. [Géoxagone - réalisation et description mutiscopique d'un pavage hexagonal](sujets/07-hexagone.md)
 8. [Urbitact - Réalisation sensitive en 3D d'un quartier urbain](sujets/08-urbitact.md)
+9. [Reconstruction de donnees  ́manquantes par IA genérative, application aux données maritimes](sujets/09-reconstr-nav.md)

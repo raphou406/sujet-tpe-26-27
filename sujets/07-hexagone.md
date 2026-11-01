@@ -1,4 +1,4 @@
-# Sujet n° 7 : Géoxagone - réalisation et description mutiscopique d'un pavage hexagonal
+# Sujet n° 7 : Géoxagone - réalisation et description multiscopique d'un pavage hexagonal
 
 *Encadrant :* Frédéric Serin
 

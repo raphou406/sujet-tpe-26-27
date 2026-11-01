@@ -10,3 +10,5 @@
 8. [Urbitact - Réalisation sensitive en 3D d'un quartier urbain](sujets/08-urbitact.md)
 9. [Reconstruction de donnees  ́manquantes par IA genérative, application aux données maritimes](sujets/09-reconstr-nav.md)
 10. [Suivi d’objet dans un flux vidéo](sujets/10-suivi-objet.md)
+11. [Exploration de graphes temporels 1](sujets/11-texp1.md)
+12. [Exploration de graphes temporels 2](sujets/12-texp2.md)

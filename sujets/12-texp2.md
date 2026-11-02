@@ -18,7 +18,7 @@ Dans le graphe temporel ci-dessus deux agents (rouge et bleu) partent du sommet 
 
 ## Objectif du projet
 
-Dans un travail de recherche récent[^2], nous avons formulé la conjecture suivante : tout graphe temporel peut être exploré en $`n(n - 1)/2`$ pas de temps en utilisant au plus $`2n-3`$ traversées d'arêtes. L'objectif de ce projet est de vérifier expérimentalement cette conjecture pour des petits valeurs de $n$.
+Dans un travail de recherche récent[^2], nous avons formulé la conjecture suivante : tout graphe temporel constamment connexe peut être exploré en $`n(n - 1)/2`$ pas de temps en utilisant au plus $`2n-3`$ traversées d'arêtes. L'objectif de ce projet est de vérifier expérimentalement cette conjecture pour des petits valeurs de $n$.
 
 La vérification nécessite de générer *tous* les graphes temporels et pour chacun d'entre eux, *tous* les déplacements possibles de l'agent. Le code que nous avons développé s'exécute en temps raisonnable jusqu'à $`n = 5`$. Actuellement on ne peut pas aller plus loin à cause de l'explosion combinatoire.
 

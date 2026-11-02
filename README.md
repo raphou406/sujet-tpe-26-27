@@ -16,3 +16,4 @@ Liste de sujets :
 10. [Suivi d’objet dans un flux vidéo](sujets/10-suivi-objet.md)
 11. [Exploration de graphes temporels 1](sujets/11-texp1.md)
 12. [Exploration de graphes temporels 2](sujets/12-texp2.md)
+13. [Réseaux de neurones informés par la physique (PINNs) - apprendre, tester et explorer avec une IAG](sujets/13-pinns.md)

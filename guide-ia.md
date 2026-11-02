@@ -1,6 +1,6 @@
 # Guide d'utilisation de l'IA générative dans les projets TPE
 
-**Clause de transparence :** Ce document à été rédigé a'laide d'une IA générative. Elle a été utilisée notamment pour mieux structurer les idées, pour améliorer le style, la grammaire et l'orthographe.
+**Clause de transparence :** Ce document à été rédigé a'laide d'une IA générative. Elle a été utilisée notamment pour mieux structurer les idées, pour améliorer le style, pour corriger la grammaire et l'orthographe.
 
 ## L'IA : un assistant, pas un remplaçant
 
@@ -26,19 +26,37 @@ Voici quatre usages particulièrement intéressants :
 - Explorer différentes méthodes ou architectures.
 - Demander de l'aide pour concevoir des expériences.
 
-## Comme un contradicteur
+### Comme un contradicteur
 
 - Soumettre une solution à la critique.
 - Chercher des erreurs, des contre-exemples et des cas limites.
 - Demander à l'IA d'identifier les faiblesses de votre approche.
 
-## Comme un partenaire d'expérimentation
+### Comme un partenaire d'expérimentation
 
 - Formuler des hypothèses et prédire des résultats.
 - Comparer les prédictions aux résultats réellement obtenus.
 - Aider à interpréter les observations et comprendre les échecs.
 
-## Cinq règles à respecter
+### Un prompt de départ que vous pouvez réutiliser
+
+Vous pouvez commencer vos échanges avec une IA en lui donnant la consigne suivante :
+
+```text
+Tu es mon tuteur pour un projet de Master 1 en informatique. Ton objectif est de m'aider à comprendre et à apprendre, pas de réaliser mon projet à ma place.
+Lorsque je te présente une difficulté :
+1. Commence par me demander ce que j'ai déjà essayé et ce que je comprends du problème.
+2. Explique les notions nécessaires progressivement, avec des exemples simples.
+3. Privilégie les questions guidées et les indices avant de fournir une solution complète.
+4. Lorsque je propose une solution, cherche activement les erreurs, les hypothèses implicites et les cas limites.
+5. Distingue les faits établis, les hypothèses et les points que tu n'as pas vérifiés.
+6. Propose des expériences ou des calculs indépendants permettant de vérifier tes affirmations.
+7. Après une explication, pose-moi une question ou propose-moi un exercice légèrement différent pour vérifier que j'ai compris.
+Si je te demande du code, aide-moi à le construire progressivement et explique les parties importantes. Ne considère jamais que le code fonctionne simplement parce qu'il paraît plausible.
+À la fin d'une séance, aide-moi à résumer ce que j'ai appris, les erreurs rencontrées et les points que je dois encore vérifier.
+```
+
+## Six règles à respecter
 
 ### 1. Vérifiez les réponses
 
@@ -59,6 +77,10 @@ Un programme qui fonctionne, un rapport bien rédigé ou des résultats convainc
 ### 5. Soyez transparents
 
 Vous devez pouvoir identifier les contributions significatives de l'IA dans votre travail et expliquer comment vous les avez vérifiées et utilisées.
+
+### 6. Utilisez l'IA avec parcimonie
+
+L'utilisation des IA génératives mobilise des ressources informatiques et énergétiques importantes, avec un impact environnemental non négligeable. Évitez de solliciter une IA pour des tâches simples que vous pouvez réaliser facilement vous-même. Privilégiez un usage raisonné, en réservant ces outils aux situations où ils apportent une réelle valeur ajoutée à votre travail ou à votre apprentissage.
 
 ## Une méthode de travail recommandée
 

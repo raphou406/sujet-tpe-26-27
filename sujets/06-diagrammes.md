@@ -1,4 +1,4 @@
-# Diagrammes à barres et circulaires - réalisation contextuelle adaptée de diagrammes
+# Sujet n°6 : Diagrammes à barres et circulaires - réalisation contextuelle adaptée de diagrammes
 
 *Encadrant :* Frédéric Serin
 

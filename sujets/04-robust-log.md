@@ -1,4 +1,4 @@
-# Robustesse des solutions d'un problème de logistique portuaire
+# Sujet n° 4 : Robustesse des solutions d'un problème de logistique portuaire
 
 *Encadrants :* Christophe Duhamel, Christian Zhuang, Éric Sanlaville, Sophie Michel
 
